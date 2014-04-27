@@ -1,7 +1,6 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## Write a short comment describing this function
 ## Description--
 ##   This function creates an object of class "list" of four functions 
 ##   that can cache the inverse of a gvien matrix
@@ -32,7 +31,6 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## Write a short comment describing this function
 ## Description--
 ##   Return a matrix that is the inverse of the matrix that is created by
 ##   makeCacheMatrix() and that may be obtained by by x$get(). 
